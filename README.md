@@ -13,7 +13,7 @@ In order for the script to run properly, there are a few prerequisites that must
 ## Instructions for Usage
 In order to properly use the script, a few formatting requirements need to be followed.
 
-1. A spreadsheet file named '[data.xlsx](https://github.hpe.com/ryan-rashid/automail/blob/master/data.xlsx)' should store recipient information.
+1. A spreadsheet file named '[data.xlsx](https://github.com/ryanrashid/automail/blob/master/data.xlsx)' should store recipient information.
 
     - The first column should have the **names** of recipients
     
@@ -23,7 +23,7 @@ In order to properly use the script, a few formatting requirements need to be fo
     
 <p align="center"><img width="346" alt="data" src="https://user-images.githubusercontent.com/64723727/89721411-d1711580-d9a2-11ea-8912-68d6cc16a2da.png"></p>
 
-2. An HTML file named '[message.html](https://github.hpe.com/ryan-rashid/automail/blob/master/message.html)' should store the content of the email.
+2. An HTML file named '[message.html](https://github.com/ryanrashid/automail/blob/master/message.html)' should store the content of the email.
 
     - The first line should have the **subject** of the email
     
@@ -37,7 +37,7 @@ In order to properly use the script, a few formatting requirements need to be fo
 
 ## Creating a Standalone Executable
 
-Before running the setup script, be sure that any file naming changes are reflected in the '[setup.py](https://github.hpe.com/ryan-rashid/automail/blob/master/setup.py)' file.
+Before running the setup script, be sure that any file naming changes are reflected in the '[setup.py](https://github.com/ryanrashid/automail/blob/master/setup.py)' file.
 
 1. Change directory into the 'automail' folder.
 
