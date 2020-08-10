@@ -8,7 +8,7 @@ In order for the script to run properly, there are a few prerequisites that must
 
 2. 'xlrd' package
 
-3. 'cx_freeze' package
+3. 'cx_Freeze' package
 
 ## Instructions for Usage
 In order to properly use the script, a few formatting requirements need to be followed.
